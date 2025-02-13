@@ -3,9 +3,9 @@
 
 iso_name="AcreetionOS Plasma Edition"
 iso_label="acreetionOS_plasma_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
-iso_publisher="Acreetion OS"
+iso_publisher="AcreetionOS"
 iso_application="Acreetion OS PLASMA Install Media"
-iso_version="1.0"
+iso_version="0.0.1"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'

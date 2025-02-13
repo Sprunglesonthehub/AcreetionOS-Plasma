@@ -12,8 +12,7 @@ brltty
 broadcom-wl
 btrfs-progs
 calamares
-calamares-config-gnome
-clonezilla
+calamares-config-plasma
 cloud-init
 cryptsetup
 darkhttpd
@@ -38,6 +37,7 @@ fatresize
 file-roller
 foot-terminfo
 fsarchiver
+glu
 gpart
 gpm
 gptfdisk
@@ -56,6 +56,7 @@ ldns
 less
 lftp
 libfido2
+libpwquality
 libusb-compat
 linux
 linux-atm
