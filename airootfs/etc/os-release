@@ -1,12 +1,12 @@
 NAME="Acreetion-OS-PLASMA-v0.0.1"
-PRETTY_NAME="Acreetion Linux [PLASMA EDITION]"
-ID=acreetion
-BUILD_ID=rolling
+PRETTY_NAME="AcreetionOS Linux [PLASMA EDITION]"
+ID=AcreetionOS
+BUILD_ID=alpha
 ANSI_COLOR="38;2;23;147;209"
-HOME_URL="https://none.org/"
-DOCUMENTATION_URL="https://wiki.archlinux.org/"
-SUPPORT_URL="https://acreetionos-linux.github.io/"
-BUG_REPORT_URL="cobra3282000@live.com"
-PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
+HOME_URL="https://sprunglesonthehub.github.io/acreetionost2.html"
+DOCUMENTATION_URL="https://darrengames.ddns.net:2500/index.php?title=Main_Page"
+SUPPORT_URL="sprungles.me@tuta.io"
+BUG_REPORT_URL="https://github.com/Sprunglesonthehub/AcreetionOS-Plasma/issues"
+PRIVACY_POLICY_URL="none"
 IMAGE_ID=AcreetionOS
-IMAGE_VERSION=0.1
+IMAGE_VERSION=0.0.1
