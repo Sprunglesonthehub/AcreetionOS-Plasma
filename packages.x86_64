@@ -1,3 +1,4 @@
+acreetionos-configs-plasma-dracut
 alsa-utils
 amd-ucode
 ananicy-cpp
@@ -11,12 +12,13 @@ bolt
 brltty
 broadcom-wl
 btrfs-progs
-calamares
-calamares-config-plasma
+calamares-git
+ckbcomp
 cloud-init
 cryptsetup
 darkhttpd
 ddrescue
+debugedit
 dhclient
 dhcpcd
 diffutils
@@ -32,12 +34,15 @@ espeakup
 ethtool
 exfatprogs
 f2fs-tools
+fakeroot
 fastfetch
 fatresize
 file-roller
+firefox
 foot-terminfo
 fsarchiver
 glu
+gnome-disk-utility
 gpart
 gpm
 gptfdisk
@@ -161,8 +166,11 @@ xfsprogs
 xl2tpd
 yaml-cpp
 yay-bin
-zen-browser-bin
 zsh
 
 # VMWARE
 open-vm-tools
+
+# Calamares deps
+qt5ct
+libpwquality

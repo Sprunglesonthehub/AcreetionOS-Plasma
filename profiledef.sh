@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="AcreetionOS Plasma Edition"
-iso_label="acreetionOS_plasma_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
+iso_name="AcreetionOS Plasma Dracut Edition"
+iso_label="acreetionOS_plasma_dracut_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="AcreetionOS"
-iso_application="AcreetionOS PLASMA Install Media"
+iso_application="AcreetionOS PLASMA Dracut Install Media"
 iso_version="0.0.1"
 install_dir="arch"
 buildmodes=('iso')
