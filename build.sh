@@ -3,5 +3,5 @@ if [ "ls /usr/bin/ | grep mkarchiso" != "mkarchiso" ] ; then
 fi
  
 
- rm -rf work/ && rm -rf out/ && sudo /usr/bin/mkarchiso -L AcreetionOS-Plasma-Dracut -v -o ../ISO . -j12 && sudo rm -rf ./work
+ rm -rf work/ && rm -rf out/ && sudo /usr/bin/mkarchiso -L AcreetionOS-Plasma -v -o ../ISO . -j12 && sudo rm -rf ./work
 
